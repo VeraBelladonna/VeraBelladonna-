@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/SanguisAnimaDenverCoder1)](https://git.io/streak-stats)
 <img src="https://raw.githubusercontent.com/SanguisAnima/GitHub-Stats/f7455e0552b3f88dea3c7ac6c40bd3dae063083c/generated/overview.svg" >
 <img src="https://raw.githubusercontent.com/SanguisAnima/GitHub-Stats/f7455e0552b3f88dea3c7ac6c40bd3dae063083c/generated/languages.svg">
 
