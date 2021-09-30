@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanguisanima&show_icons=true&locale=en&layout=compact" alt="sanguisanima" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanguisanima&show_icons=true&locale=en" alt="sanguisanima" /></p>
+<p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/SanguisAnima/GitHub-Stats/f7455e0552b3f88dea3c7ac6c40bd3dae063083c/generated/overview.svg" alt="sanguisanima" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanguisanima&" alt="sanguisanima" /></p>
+<p><img align="center" src="https://raw.githubusercontent.com/SanguisAnima/GitHub-Stats/f7455e0552b3f88dea3c7ac6c40bd3dae063083c/generated/languages.svg" alt="sanguisanima" /></p>
 
