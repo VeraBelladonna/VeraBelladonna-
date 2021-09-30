@@ -15,5 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/SanguisAnima/GitHub-Stats/f7455e0552b3f88dea3c7ac6c40bd3dae063083c/generated/overview.svg" alt="sanguisanima" /></p>
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SanguisAnima&background=DDDDDD00" alt="sanguisanima" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SanguisAnima&background=DDDDDD00&dates=8F8F8F&sideNums=8F8F8F&currStreakLabel=8F8F8F&currStreakNum=8F8F8F&sideLabels=8F8F8F" alt="sanguisanima" /></p>
 
