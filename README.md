@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="https://raw.githubusercontent.com/SanguisAnima/GitHub-Stats/f7455e0552b3f88dea3c7ac6c40bd3dae063083c/generated/overview.svg" >
+<img src="https://raw.githubusercontent.com/SanguisAnima/GitHub-Stats/f7455e0552b3f88dea3c7ac6c40bd3dae063083c/generated/languages.svg">
 
 <!--
 **SanguisAnima/sanguisanima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
