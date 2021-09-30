@@ -15,5 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://raw.githubusercontent.com/SanguisAnima/GitHub-Stats/f7455e0552b3f88dea3c7ac6c40bd3dae063083c/generated/overview.svg" alt="sanguisanima" /></p>
 
-<p><img align="center" src="" alt="sanguisanima" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SanguisAnima&theme=dark&hide_border=true&fire=DD2727" alt="sanguisanima" /></p>
 
