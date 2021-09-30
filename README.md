@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SanguisAnima&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SanguisAnima)](https://git.io/streak-stats)
 <img src="https://raw.githubusercontent.com/SanguisAnima/GitHub-Stats/f7455e0552b3f88dea3c7ac6c40bd3dae063083c/generated/overview.svg" >
 <img src="https://raw.githubusercontent.com/SanguisAnima/GitHub-Stats/f7455e0552b3f88dea3c7ac6c40bd3dae063083c/generated/languages.svg">
 
