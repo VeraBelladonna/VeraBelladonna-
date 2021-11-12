@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/tr%C3%A9y-powell-09705a190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tréy powell" height="30" width="40" /></a>
 <a href="https://codepen.io/sanguisanima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sanguisanima" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanguisanima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanguisanima" height="30" width="40" /></a>
+<a href="https://www.freecodecamp.org/sanguisanima" target="blank"><img align="center" src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg" alt="sanguisanima" height="30" width="40" /></a>
 </p>
 <p align="left">
 <h3 align="left">Languages and Tools:</h3>
