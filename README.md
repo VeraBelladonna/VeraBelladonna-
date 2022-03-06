@@ -17,6 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github.com/SanguisAnima/GitHub-Stats/blob/output/generated/overview.svg" alt="sanguisanima" /></p>
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=SanguisAnima&background=DD272700&currStreakNum=7B8B8B&sideNums=7B8B8B&currStreakLabel=7B8B8B&sideLabels=7B8B8B&dates=7B8B8B" alt="sanguisanima" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=TPowell-7&background=DD272700&currStreakNum=7B8B8B&sideNums=7B8B8B&currStreakLabel=7B8B8B&sideLabels=7B8B8B&dates=7B8B8B" alt="tpowell-7" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanguisanima&label=Profile%20views&color=0e75b6&style=flat" alt="sanguisanima" /> </p>
