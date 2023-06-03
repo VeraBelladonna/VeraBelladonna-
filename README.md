@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trey Powell</h1>
+<h1 align="center">Hi 👋, I'm Vera</h1>
 <h3 align="center">A student from South Africa</h3>
 
 
