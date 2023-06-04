@@ -6,19 +6,21 @@
 <img src="https://github.com/VeraBelladonna/Test1/blob/output/generated/overview.svg" alt="VeraBelladonna_Github_Stats" /></p>
 
 ### 👷 Check out what I'm currently working on
-
-- [VeraBelladonna/VeraBelladonna.github.io](https://github.com/VeraBelladonna/VeraBelladonna.github.io) - 
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 ### 🌱 My latest projects
-
-- [VeraBelladonna/VeraBelladonna.github.io](https://github.com/VeraBelladonna/VeraBelladonna.github.io) - 
-- [VeraBelladonna/cmdline-diceroller](https://github.com/VeraBelladonna/cmdline-diceroller) - A basic C# dice rolling program 
+{{ range recentRepos 5 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
 ### 🔨 My recent Pull Requests
-
+{{ range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
 ### ⭐ Recent Stars
-
-- [GenderDysphoria/GenderDysphoria.fyi](https://github.com/GenderDysphoria/GenderDysphoria.fyi) - Site code
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+{{ range recentStars 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 ### 📫 How to reach me:
   - Youtube   : <https://youtube.com/c/>
   - Twitch    : <https://twitch.tv/>
