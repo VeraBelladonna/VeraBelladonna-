@@ -7,10 +7,10 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [VeraBelladonna/VeraBelladonna.github.io](https://github.com/VeraBelladonna/VeraBelladonna.github.io) - 
+- [VeraBelladonna/verabelladonna.github.io](https://github.com/VeraBelladonna/verabelladonna.github.io) - 
 ### 🌱 My latest projects
 
-- [VeraBelladonna/VeraBelladonna.github.io](https://github.com/VeraBelladonna/VeraBelladonna.github.io) - 
+- [VeraBelladonna/verabelladonna.github.io](https://github.com/VeraBelladonna/verabelladonna.github.io) - 
 - [VeraBelladonna/cmdline-diceroller](https://github.com/VeraBelladonna/cmdline-diceroller) - A basic C# dice rolling program 
 ### 🔨 My recent Pull Requests
 
